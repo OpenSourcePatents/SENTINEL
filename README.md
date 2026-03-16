@@ -1,5 +1,4 @@
 # SENTINEL
-# SENTINEL
 
 **Systemic Enforcement Network for Transparency, Institutional Notification, and Escalated Liability**
 
